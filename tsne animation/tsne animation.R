@@ -161,4 +161,4 @@ tsne_anim <-
           fps = 60, 
           bg = 'transparent'); tsne_anim
 
-anim_save("tsne_anim.gif", tsne_anim)
+anim_save("tsne animation.gif", tsne_anim)
